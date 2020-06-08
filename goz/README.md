@@ -54,11 +54,11 @@ NOTE: If you have any issues running this, please raise an issue [OR] write to i
 
 1) **jq**
 
-    ``` brew install install jq ```
+    ``` brew install jq ```
 
 2) **curl**
 
-    ``` brew install install curl ```
+    ``` brew install curl ```
 
 #### Run the script
 
