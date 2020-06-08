@@ -100,6 +100,17 @@ The script aims to demonstrate:
 2. Asset creation WITH licensing (pNFT #2) on **freeflix-media-hub** for licensing it to **coco-post-chain**. The NFT exists on both chains.
 3. Asset creation WITH licensing with an automatic attribution to the owner
 
+Licensing of an Asset listed on the marketplace
+---
+
+![Asset Licesing](https://raw.githubusercontent.com/FreeFlixMedia/ibc/master/goz/media/FreeFlixMedia_CosmicCompass_CosmosGOZ_ListedAssetExchangeFROM_FF_to_COCO.png)
+
+Licensing of an unlisted Asset with automatic attribution to the asset owner
+---
+
+![Asset Licesing](https://raw.githubusercontent.com/FreeFlixMedia/ibc/master/goz/media/FreeFlixMedia_CosmicCompass_CosmosGOZ_UnlistedAssetExchange_FROM_COCO_2_FreeFlix_and_back.png)
+
+
 A quick walk-through
 ---
 
@@ -148,3 +159,5 @@ Below are the events triggered during the demo:
         - both that have been licensed from the account on freeflix-media-hub
 
 The entire process takes a few minutes to execute once you initiate it with the script. If the process is too fast you can wait for the script to end and scroll up to check everything that has happened.
+
+To know more about the details of implementation, please visit our medium articles ([article #1](https://medium.com/freeflix/community-powered-linear-broadcast-using-cosmos-ibc-by-freeflix-media-cosmic-compass-coco-bfb00b4584b9) & [article #2](https://medium.com/freeflix/community-powered-linear-broadcast-using-cosmos-ibc-by-freeflix-media-cosmic-compass-coco-bfb00b4584b9)) for further reading.
