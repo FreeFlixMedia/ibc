@@ -34,7 +34,7 @@ The clients are being released for 2 operating systems:
   
 - Extract the file to a folder and navigate into it & change permissions of the script file
  
-    ```tar -xJvf ff_coco_script_linux_CLI.tar.xz````
+    ```tar -xJvf ff_coco_script_linux_CLI.tar.xz```
 
 - Give required permissions for the bash script to execute
 
@@ -69,7 +69,7 @@ NOTE: If you have any issues running this, please raise an issue [OR] write to i
   
 - Extract the file to a folder and navigate into it & change permissions of the script file
  
-    ```tar -xJvf ff_coco_script_mac_CLI.tar.xz````
+    ```tar -xJvf ff_coco_script_mac_CLI.tar.xz```
 
 - Give required permissions for the bash script to execute
 
