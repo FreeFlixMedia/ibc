@@ -30,15 +30,15 @@ The clients are being released for 2 operating systems:
 
 - Download the binaries:
 
-  ```wget https://github.com/FreeFlixMedia/ibc/releases/download/v0.0.1-ibc-demo/ffcli_linux_v1```
+  ```wget https://github.com/FreeFlixMedia/ibc/releases/download/v0.0.1-ibc-demo/ff_coco_script_linux_CLI.tar.xz```
+  
+- Extract the file to a folder and navigate into it & change permissions of the script file
+ 
+    ```tar -xJvf ff_coco_script_linux_CLI.tar.xz````
 
-  ```wget https://github.com/FreeFlixMedia/ibc/releases/download/v0.0.1-ibc-demo/cococli_linux_v1```
+- Give required permissions for the bash script to execute
 
-  ```wget https://github.com/FreeFlixMedia/ibc/releases/download/v0.0.1-ibc-demo/FF_COCO_IBC_demo.sh```
-
-- Change permissions of the script file
-
-  `sudo chmod 744 FF_COCO_IBC_demo.sh`
+    `sudo chmod 744 FF_COCO_IBC_demo.sh`
 
 - Run the script file
 
@@ -60,24 +60,25 @@ NOTE: If you have any issues running this, please raise an issue [OR] write to i
 
     ``` brew install curl ```
 
+
 #### Run the script
 
-- Download the binaries
+- Download the binaries:
 
-  ```wget https://github.com/FreeFlixMedia/ibc/releases/download/v0.0.1-ibc-demo/ffcli_mac_v1```
+  ```wget https://github.com/FreeFlixMedia/ibc/releases/download/v0.0.1-ibc-demo/ff_coco_script_mac_CLI.tar.xz```
+  
+- Extract the file to a folder and navigate into it & change permissions of the script file
+ 
+    ```tar -xJvf ff_coco_script_mac_CLI.tar.xz````
 
-  ```wget https://github.com/FreeFlixMedia/ibc/releases/download/v0.0.1-ibc-demo/cococli_mac_v1```
+- Give required permissions for the bash script to execute
 
-  ```wget https://github.com/FreeFlixMedia/ibc/releases/download/v0.0.1-ibc-demo/FF_COCO_IBC_demo.sh```
-
-- Change permissions of the script file
-
-  `sudo chmod 744 FF_COCO_IBC_demo.sh`
+    `sudo chmod 744 FF_COCO_IBC_demo.sh`
 
 - Run the script file
 
   `bash ./FF_COCO_IBC_demo.sh`
-
+  
 NOTE: If you have any issues running this, please raise an issue [OR] write to info[at]freeflix[dot]media
 
 Important points to note:
